@@ -11,7 +11,7 @@
 
 <h3 align="center">🍎 Follow Me 🍎</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Notion-#003791?style=for-the-badge&logo=Notion&logoColor=white"></a>&nbsp
+  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Notion-003791?style=for-the-badge&logo=Notion&logoColor=white"></a>&nbsp
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fito-daehyeon&show_icons=true&theme=radical)
