@@ -21,9 +21,10 @@
   <a href="https://artistic-tortellini-9ca.notion.site/bc6f8beef05a49f29d6f6bac36223286"><img src="https://img.shields.io/badge/Notion-003791?style=for-the-badge&logo=Notion&logoColor=white"></a>&nbsp
 </p>
 
-
+ <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fito-daehyeon&layout=compact)](https://github.com/fito-daehyeon/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fito-daehyeon&show_icons=true&theme=radical)
 
+</div>
