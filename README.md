@@ -3,9 +3,10 @@
 
 
  <h1>Hi~</h1>
- <h3 align="center">📚 Tech Stack 📚</h3>
+ <h3 align="center">📚 언어 및 도구 📚</h3>
  <p align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=Swift&logoColor=white"><img src="https://img.shields.io/badge/Combine-0099E5?style=for-the-badge&logo=Swift&logoColor=white">
+ <img src="https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=XCode&logoColor=white">
 </p>
 
 
