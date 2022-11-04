@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi!%20there&fontSize=90)
 
-
-
- <h1>Hi~</h1>
  <h3 align="center">📚 언어 및 도구 📚</h3>
  <p align="center">
  
