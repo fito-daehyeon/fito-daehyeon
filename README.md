@@ -23,7 +23,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fito-daehyeon&langs_count=8)](https://github.com/fito-daehyeon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fito-daehyeon&layout=compact)](https://github.com/fito-daehyeon/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fito-daehyeon&show_icons=true&theme=radical)
 
